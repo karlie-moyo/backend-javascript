@@ -17,6 +17,7 @@ Default parameters
 Rest parameter
 Javascript ES6 — Iterables and Iterators
 Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 What ES6 is
@@ -28,6 +29,7 @@ Rest and spread function parameters
 String templating in ES6
 Object creation and their properties in ES6
 Iterators and for-of loops
+
 Requirements
 General
 All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
@@ -62,5 +64,6 @@ babel.config.js
 Click to show/hide file contents
 .eslintrc.js
 Click to show/hide file contents
+
 Finally…
 Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
