@@ -10,13 +10,13 @@
 RESOURCES
 Read or watch:
 
-ECMAScript 6 - ECMAScript 2015
-Statements and declarations
-Arrow functions
-Default parameters
-Rest parameter
-Javascript ES6 — Iterables and Iterators
-Learning Objectives
+[ECMAScript 6 - ECMAScript 2015]()
+[Statements and declarations]()
+[Arrow functions]()
+[Default parameters]()
+[Rest parameter]()
+[Javascript ES6 — Iterables and Iterators]()
+[Learning Objectives]()
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
