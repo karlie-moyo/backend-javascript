@@ -1,4 +1,12 @@
-# 0x05. NodeJS Basics
+js (Node) is an open source, cross-platform runtime environment for executing JavaScript code. Node is used extensively for server-side programming, making it possible for developers to use JavaScript for client-side and server-side code without needing to learn an additional language.
+
+
+
+
+![image](https://github.com/Karlie-crypto/alx-backend-javascript/assets/110098940/9d31b74e-6e02-400d-a103-c3fd25f5f248)
+
+
+
 
 ## About
 - Using Node modules
