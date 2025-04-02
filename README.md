@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/010c9f7b-d3c7-4ee6-baf7-398dd2be66a0)
 
+![image](https://github.com/user-attachments/assets/a9efe6ac-c338-4695-8735-a7bc3a5542a5)
+
+
 ES6 introduces modern JavaScript features like promises, classes, and data manipulation techniques, while TypeScript adds static typing for better error handling, and Node.js allows server-side JavaScript execution, with testing frameworks like Jest used for unit testing, and .gitignore helps manage files excluded from version control.
 
 
